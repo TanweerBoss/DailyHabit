@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DailyHabit/static/css/main.4a0437d2.css",
+    "main.js": "/DailyHabit/static/js/main.56f2f2a7.js",
+    "static/js/787.41be8c11.chunk.js": "/DailyHabit/static/js/787.41be8c11.chunk.js",
+    "index.html": "/DailyHabit/index.html",
+    "main.4a0437d2.css.map": "/DailyHabit/static/css/main.4a0437d2.css.map",
+    "main.56f2f2a7.js.map": "/DailyHabit/static/js/main.56f2f2a7.js.map",
+    "787.41be8c11.chunk.js.map": "/DailyHabit/static/js/787.41be8c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0437d2.css",
+    "static/js/main.56f2f2a7.js"
+  ]
+}
